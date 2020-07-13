@@ -7,7 +7,7 @@ Programming Environment: NetBeans 8.2
 
 Backend: MySQL
 
-Server: Tomcat
+Server: Apache Tomcat
 
 Additional jar Files:
 
